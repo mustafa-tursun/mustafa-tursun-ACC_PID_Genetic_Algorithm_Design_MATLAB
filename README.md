@@ -5,7 +5,7 @@ This project is our graduation thesis.
 Firstly you should read Thesis from "Thesis and Poster " document.
 
 Then you can see and run simulink from main doc which its name is "ACC_Control_Vehicle_tf.slx". 
-here inthe  slx file here, the Adaptive navigation system with Simulink and the vehicle system used can be examined. 
+Here in the slx file, the Adaptive cruse system with Simulink and the vehicle system used can be examined. 
 In fact, only the nonlinear transfer function is seen here.
 Matworks' own published vehicle blocks and the actual simulation can be examined in the "PTB_ConventionalModel.slx" file.
 
